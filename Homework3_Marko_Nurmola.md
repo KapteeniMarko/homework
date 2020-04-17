@@ -1,3 +1,28 @@
-#Homework 3
+# Homework 3
 
-##Tämä on Teron kurssille tehty kotitehtävä
+#### Tämä on Teron kurssille tehty kotitehtävä.
+
+A) Latasimme Typoran jolla teimme .md tiedostoja. Testasimme ja harjoittelimme Typoran käyttöä sekä tiedostojen lähettämistä githubiin.
+
+B) **__git log__** näyttää lokitiedot jossa näen mitä tiedostoja olen luonut ja muokannut, esimerkkinä:
+
+Commit 289etcetcetc.
+
+Author: Marko Nurmola <marko.nurmola@myy.haaga-helia.fi>
+
+Date: Fri Apr 17 11:56:27 2020
+
+Changes to be committed:
+
+New file Homework3_Marko_Nurmola.md
+
+**__git diff__** näyttää muutokset jotka on tehty tiedostojen sisälle, kuten 
+
+-##Tämä on Teron kurssille tehty kotitehtävä
+
++#### Tämä on teron kurssille tehty kotitehtävä
+
+Tässä oli alunperin kirjoitusvirhe, risuaidan ja Tämä sanan välistä puuttui väli jonka takia tein muutokset.
+
+
+
