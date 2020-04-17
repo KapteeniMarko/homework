@@ -1,1 +1,3 @@
-Tämä on Tero Karvisen palvelinten hallinta kurssin kolmas kotitehtävä
+#Homework 3
+
+##Tämä on Teron kurssille tehty kotitehtävä
