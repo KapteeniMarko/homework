@@ -24,5 +24,5 @@ New file Homework3_Marko_Nurmola.md
 
 Tässä oli alunperin kirjoitusvirhe, risuaidan ja Tämä sanan välistä puuttui väli jonka takia tein muutokset.
 
-
+**git blame** komentoa voidaan käyttää että pääsee näkemään kuka on tehnyt muutokset tiettyyn riviin sekä milloin ne on tehty. Tällä on helppo syyttää jotain henkilöä hänen tekemistä muutoksista.
 
