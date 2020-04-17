@@ -28,4 +28,4 @@ Tässä oli alunperin kirjoitusvirhe, risuaidan ja Tämä sanan välistä puuttu
 
 34301157 (Marko Nurm 2020-04-17 12:31:50 +0300  1) # Homework 3
 
-E) Kirjoitin turhaa tekstiä tiedostooni, en tehny committia ja käytin git reset -hard
+E) Kirjoitin turhaa tekstiä tiedostooni, en tehny committia ja käytin **git reset --hard** komentoa joka poisti tekemäni turhat muutokset, sekä haki githubista viimeisimmän tallennetun version. Yllätyin tästä miten helppoa se oli.
