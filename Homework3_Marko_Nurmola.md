@@ -30,4 +30,4 @@ Tässä oli alunperin kirjoitusvirhe, risuaidan ja Tämä sanan välistä puuttu
 
 E) Kirjoitin turhaa tekstiä tiedostooni, en tehny committia ja käytin ***git reset --hard*** komentoa joka poisti tekemäni turhat muutokset, sekä haki githubista viimeisimmän tallennetun version. Yllätyin tästä miten helppoa se oli.
 
-F) ![olut](/home/marko/Downloads/olut.gif)
+F) 
