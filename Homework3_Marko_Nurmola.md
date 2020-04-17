@@ -24,5 +24,8 @@ New file Homework3_Marko_Nurmola.md
 
 Tässä oli alunperin kirjoitusvirhe, risuaidan ja Tämä sanan välistä puuttui väli jonka takia tein muutokset.
 
-**git blame** komentoa voidaan käyttää että pääsee näkemään kuka on tehnyt muutokset tiettyyn riviin sekä milloin ne on tehty. Tällä on helppo syyttää jotain henkilöä hänen tekemistä muutoksista.
+**git blame** komentoa voidaan käyttää että pääsee näkemään kuka on tehnyt muutokset tiettyyn riviin sekä milloin ne on tehty. Tällä on helppo syyttää jotain henkilöä hänen tekemistä muutoksista. Esimerkkinä suora rivi omasta terminalista jossa on käytetty **git blame**
 
+34301157 (Marko Nurm 2020-04-17 12:31:50 +0300  1) # Homework 3
+
+E) Kirjoitin turhaa tekstiä tiedostooni, en tehny committia ja käytin git reset -hard
